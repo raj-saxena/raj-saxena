@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Raj.</h1>
 <h3 align="center">I like to solve technical problems.</h3>
 
-- 🔭 I’m currently heading the Platform Engineering (Cloud + SRE) team for a FinTech startup 🚀.
+- 🔭 I’m currently heading the Platform Engineering (Cloud + SRE) team for a regulated German FinTech 🚀.
 - 🌱 The primary technologies I work with everyday are Kubernetes, GCP, Terraform, Vault and Golang.
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: https://twitter.com/therajsaxena
